@@ -1,6 +1,6 @@
 # Decoder Ring Project
 
-Completed Chegg Skill's "decoder ring" "Qualified" project.
+My version of the completed Chegg Skill's "decoder ring" "Qualified" project.
 
 ## Overview:
 Decoder ring project encodes and decodes messages in three different ways using three different functions: the Caesar, Polybius, and substitution ciphers.
