@@ -1,5 +1,4 @@
 # Decoder Ring Project
-
 My version of the completed Chegg Skill's "decoder ring" "Qualified" project.
 
 ## Overview:
